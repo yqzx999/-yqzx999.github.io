@@ -1,0 +1,127 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body { 
+    padding: 0px;
+    margin: 0;
+    background-color: #e4e4e4;} 
+
+#header{
+    color:#1ca2c4;
+    height: 120px;
+    margin-top: 0;
+    background-color: #DBDCDF;
+    
+}
+#headerLogo{
+    width: 175.2px;
+    height: 109.5px;
+    float: left;
+}
+#headerLogo h1{
+    color:aqua;
+}
+#headerwenzi{
+    width: 500px;
+    margin: 0 auto;
+}
+
+#daohangqukuangjia{
+    
+    
+    height: 41px;
+    width: auto;
+    background-color: #1ca2c4;
+    
+}
+
+#daohangneirongkuangjia{
+    width: 1000px;
+    height: 41px;
+    margin: 0 auto;
+}
+
+.daohangquneirong{
+    width: 250px;
+    height: 41px;
+    text-align: center;
+    color: #fff;
+    float: left;
+    line-height: 41px;
+    overflow: hidden;
+     
+}
+
+
+
+
+
+#gequ{
+    
+    width: 300px;
+    margin-left: 30px;
+    background-color: #FFCF04;
+    padding:  10px;
+}
+
+#guding{
+    position: fixed;
+    top: 350px;
+    left: 0px;
+    background-color: red;
+}
+
+.middlepage{
+    width: 1000px;
+    height: 3700px;
+    margin: 0 auto;
+    background-color: pink;
+
+    
+
+    
+
+    
+}
+#jianli{
+    width: 500px;
+    margin-left: 30px;
+    background-color: #FFCF04;
+    padding:  10px;
+    float: left;
+    margin-right: 100px;
+}
+#jiyu{
+    width: 500px;
+    margin-left: 30px;
+    background-color: red;
+    padding:  10px;
+    float: left;
+    margin-right: 100px;
+    margin-top: 100px;
+}
+#jiyu p{color: yellow}
+
+#zhaopian{
+    margin-left: 100px;
+}
+.miaoshu p{
+    
+    font-weight:bolder;
+    font-size: larger;
+    color:white;
+}
+.miaoshu{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+footer{
+    background-color: #1ca2c4;
+    text-align: center;
+}
+footer p{
+    color:black;
+}
